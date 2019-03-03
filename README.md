@@ -1,4 +1,4 @@
-# Reliable and Interpretable AI 2018 Project
+# Certifying Neural Network Robustness
 Validate robustness for several neural networks with given input noise.
 
 # Requirements

@@ -1,0 +1,12 @@
+# Ignore local scripts for pushing and pulling to Jordan's Virtual Box
+push
+pull
+logininfo
+
+# Ignore Gurobi stuff
+gurobi.log
+setup_gurobi.sh
+dummy
+
+# Ignore VIM stuff
+*.swp
